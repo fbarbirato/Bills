@@ -1,0 +1,14 @@
+﻿- Add New Bill (Year, Month, Bill Name, Value, Due Date)
+	1) Validate Request
+	2) Create Bill Object	
+	3) Store Bill Object
+	4) Create Response
+	5) Return Response
+
+- Change Existing Bill (Year, Month, Bill Name, Value, Due Date)
+
+- Get List Of Bills (Year, Month)
+
+- Get Amount Due (Year, Month)
+
+- Get Closest Due Bill (Year, Month)
